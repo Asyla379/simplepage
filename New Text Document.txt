@@ -16,7 +16,7 @@
             <ul>
                 <li><a href="#">Home</a></li>
                 <li><a href="#">About</a></li>
-                <li><a href="#">Contact</a></li>
+                <li><a href="#">phone insted of contact</a></li>
             </ul>
         </nav>
     </header>
